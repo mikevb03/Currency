@@ -12,7 +12,7 @@
   "dependencies": {
     "brain.js": "^1.6.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "got": "^9.6.0",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
